@@ -1,0 +1,32 @@
+{
+  "name": "web-terminal-server",
+  "version": "1.0.0",
+  "description": "web terminal,xterm.js,node-pty",
+  "keywords": [
+    "terminal","xterm.js","node-pty"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "mikechen",
+    "email": "chenweizhen@126.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/mikenchen/web-terminal-server.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:win": "chcp 65001 && node index.mjs",
+    "start": "node index.mjs"
+  },
+  "main": "index.mjs",
+  "dependencies": {
+    "@types/node": "^22.5.5",
+    "express": "^4.21.0",
+    "express-ws": "^5.0.2",
+    "node-pty": "^1.0.0"
+  },
+  "volta": {
+    "node": "21.2.0"
+  }
+}
