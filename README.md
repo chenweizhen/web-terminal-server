@@ -3,6 +3,8 @@
 #### 介绍
 使用NodeJS搭建的Express服务
 
+客户端地址：[https://gitee.com/mikenchen/web-terminal-client](https://gitee.com/mikenchen/web-terminal-client)
+
 #### 软件架构
 | 依赖包      | 说明     |
 |----------|--------|
