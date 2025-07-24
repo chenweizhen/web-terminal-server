@@ -3,7 +3,7 @@
 #### 介绍
 使用NodeJS搭建的Express服务
 
-客户端地址：[https://gitee.com/mikenchen/web-terminal-client](https://gitee.com/mikenchen/web-terminal-client)
+客户端地址：[https://github.com/chenweizhen/web-terminal-client](https://github.com/chenweizhen/web-terminal-client)
 
 #### 软件架构
 | 依赖包      | 说明     |
@@ -15,7 +15,7 @@
 #### 安装教程
 
 ```
-1.  git clone https://gitee.com/mikenchen/web-terminal-server.git
+1.  git clone https://github.com/chenweizhen/web-terminal-server.git
 2.  cd web-terminal-server
 3.  pnpm install
 4.  pnpm run start 或 pnpm run start:win
@@ -25,7 +25,7 @@
 #### 前端代码
 
 ```
-1.  git clone https://gitee.com/mikenchen/web-terminal-client.git
+1.  git clone https://github.com/chenweizhen/web-terminal-client.git
 2.  cd web-terminal-client
 3.  pnpm install
 4.  pnpm run dev
